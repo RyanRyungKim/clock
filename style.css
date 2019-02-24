@@ -1,0 +1,35 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+.main{
+  padding:30px;
+  background: #ccc;
+  width:400px;
+  margin: 100px auto;
+  height: 175px;
+  border-radius: 10px;
+}
+.badge{
+  padding-top: 7px;
+  color: white;
+  background-color: red;
+  text-align: center;
+  width:100px;
+  height:40px;
+  position: relative;
+  top:-40%;
+  left:35%;
+  border-radius: 10px;
+}
+.clock{
+  width:auto;
+  background:#EBEBEB;
+  text-align: center;
+  font-size: 55px;
+  height:100%;
+  padding-top:18px;
+  position:relative;
+  top: -35%;
+}
